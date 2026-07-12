@@ -53,7 +53,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that enables user
 
 ### AI Content Ideas
 
-![Content Ideas](images/content-ideas.png)
+![Content Ideas](images/screenshot 2.png)
 
 ### LinkedIn Post Generator
 
