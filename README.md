@@ -49,7 +49,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that enables user
 
 ### Dashboard & RAG Question Answering
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard1.jpg)
 
 ### AI Content Ideas
 
