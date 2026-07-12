@@ -45,7 +45,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that enables user
 
 ## 📸 Application Preview
 
-> Add your screenshots here after uploading them to GitHub.
+
 
 ### Dashboard & RAG Question Answering
 
