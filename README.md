@@ -49,24 +49,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application that enables user
 
 ### Dashboard & RAG Question Answering
 
-![Dashboard](images/Dashboard1.jpg)
-
-### AI Content Ideas
-
-![Content Ideas](Images/screenshot%201.png)
-
-### LinkedIn Post Generator
-
-![LinkedIn](images/linkedin-post.png)
-
-### YouTube Script Generator
-
-![YouTube](images/youtube-script.png)
-
-### Document Statistics
-
-![Statistics](images/statistics.png)
-
+![Dashboard](Images/Dashboard1.jpg)
 
 
 ---
